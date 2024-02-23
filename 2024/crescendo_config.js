@@ -68,6 +68,7 @@ var config_data = `
     { "name": "Leave Starting Zone",
       "code": "al",
       "type": "bool"
+      "text-color": "red"
     },
     { "name": "Amp Scores",
       "code": "aas",
